@@ -10,14 +10,14 @@ This project idea comes from a LinkedIn user and i decided to test my skills wit
 Public monthly CSV datasets provided by the Receita Federal.
 
 ## Initial Architecture
-Receita Federal
-   ↓
-Python download scripts
-   ↓
-Raw zone (CSV)
-   ↓
-PostgreSQL (staging)
-
+Receita Federal  
+   ↓  
+Python download scripts  
+   ↓  
+Raw zone (CSV)  
+   ↓  
+PostgreSQL (staging)  
+  
 ## Tech Stack
 - Python
 - PostgreSQL
